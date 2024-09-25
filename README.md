@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Raskar</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" alt="nodejs" width="40" height="40"/>, I'm Shubham Raskar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamraskar00&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamraskar00" /> </p>

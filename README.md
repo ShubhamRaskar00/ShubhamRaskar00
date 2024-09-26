@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Repeat mail sender](https://shubhamraskar00.github.io/)
 
-- 🌱 I’m currently learning **Blender, Front End**
+- 🌱 I’m currently learning **Blender, Front End, THREEJS, Spline**
 
 - 👨‍💻 All of my projects are available at [https://shubhamraskar00.github.io/](https://shubhamraskar00.github.io/)
 

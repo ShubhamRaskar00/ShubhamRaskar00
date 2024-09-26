@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sr_shubh99362" target="blank"><img src="https://img.shields.io/twitter/follow/sr_shubh99362?logo=twitter&style=for-the-badge" alt="sr_shubh99362" /></a> </p>
 
-- 🔭 I’m currently working on [Horror Website](https://shubhamraskar00.github.io/)
+- 🔭 I’m currently working on [Repeat mail sender](https://shubhamraskar00.github.io/)
 
 - 🌱 I’m currently learning **Blender, Front End**
 

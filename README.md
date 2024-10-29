@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shubhamraskar69@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shubham-raskar-5126b5239/]
+- 📄 Know about my experiences [https://www.linkedin.com/in/shubham-raskar-5126b5239/](https://www.linkedin.com/in/shubham-raskar-5126b5239/)
 
 - ⚡ Fun fact **I haven't written code for too long and I feel like I forgot everything.**
 
